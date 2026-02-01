@@ -1,0 +1,8 @@
+/* BACKGROUND */
+body {
+    background-color: #191a1c;
+    color: #191a1c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
